@@ -12,15 +12,14 @@
 </p>
 
 <p align="center">
-    🌱 I’m currently learning **Flutter, Dart and Python**<br>
-    🤝 I’m looking for help with **Flutter, Dart, Python**<br>
-    💬 Ask me about **Dart, Flutter and Python**<br>
+    🌱 I’m currently learning **Flutter, Dart, MySQL and PostgreSQL**<br>
+    🤝 I’m looking for help with **Flutter, Dart, MySQL and PostgreSQL **<br>
+    💬 Ask me about **Dart, Flutter, MySQL and PostgreSQL**<br>
     📫 How to reach me **abdusalomgayratov7@gmail.com**<br><br><br>
 
 <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 </p>
   
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -41,8 +40,11 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 0 10px;"/>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" style="margin: 0 10px;"/>
   </a>
 </p>
 <br>
