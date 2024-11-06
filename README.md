@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdusalom G'ayratov</h1>
-<h3 align="center">A dedicated mobile app developer from Uzbekistan, driven by passion and creativity.</h3>
+<h3 align="center">A mobile app developer from Uzbekistan, driven by passion and creativity.</h3>
 
 <p align="center">
   <a href="https://twitter.com/" target="blank">
