@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdusalom G'ayratov</h1>
-<h3 align="center">A mobile app developer from Uzbekistan, driven by passion and creativity.</h3>
+<h3 align="center">A mobile application developer from Uzbekistan, driven by passion and creativity.</h3>
 
 <p align="center">
   <a href="https://twitter.com/" target="blank">
@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-    🌱 I’m currently learning **Flutter, Dart, MySQL, and PostgreSQL**<br>
-    🤝 I’m looking for help with **Flutter, Dart, MySQL, and PostgreSQL**<br>
-    💬 Ask me about **Dart, Flutter, MySQL, and PostgreSQL**<br>
+    🌱 I’m currently learning **Flutter, Dart, Firebase, MySQL, and PostgreSQL**<br>
+    🤝 I’m looking for help with **Flutter, Dart, Firebase, MySQL, and PostgreSQL**<br>
+    💬 Ask me about **Dart, Flutter, Firebase, MySQL, and PostgreSQL**<br>
     📫 How to reach me **abdusalomgayratov7@gmail.com**<br><br><br>
 
 <img alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
