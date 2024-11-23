@@ -11,10 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-<img alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952sslk9kdboe2jlbomif884syp1ngm4qjn6txavmgm&ep=v1_gifs_search&rid=200w.gif&ct=g">
-</p>
-
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
